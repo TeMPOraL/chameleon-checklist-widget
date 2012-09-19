@@ -3,10 +3,10 @@
 	
 	<!-- About the widget -->
 	<widget>
-		<guid>com.chameleonlauncher.template</guid> <!-- A unique id -->
-		<baseURL>http:/chameleonlauncher.com/widgets/template/</baseURL> <!-- your base url -->
-		<name>Template</name> <!-- title that users will see as the name of the widget -->
-		<description>A blank template for making widgets</description> <!-- a detailed description of the widget -->
+		<guid>org.trc.checklist</guid> <!-- A unique id -->
+		<baseURL>http://temporal.pr0.pl/chameleon/checklist/</baseURL> <!-- your base url -->
+		<name>Checklist</name> <!-- title that users will see as the name of the widget -->
+		<description>A handy checklist with habit tracking.</description> <!-- a detailed description of the widget -->
 		<version>0.0.0</version> <!-- the version number of your widget -->
 	</widget>	
 	
@@ -28,11 +28,9 @@
 	
 	<!-- About who created the widget, and how to contact them -->
 	<author>
-		<name>Teknision Inc</name>
-		<website>http://www.teknision.com</website>
-		<email>info@teknision.com</email>
-		<support type="email">support@chameleonlauncher.com</support>
-		<support type="URL">http://chameleonlauncher.com/support</support>
+		<name>TeMPOraL</name>
+		<website>http://temporal.pr0.pl/devblog/</website>
+		<email>temporal.pl@gmail.com</email>
 	</author>
 	
 
@@ -50,7 +48,6 @@
 		<resource name='js/settings.main.js' />
 		<resource name='css/widget.css' />
 		<resource name='images/icon.png' />
-		
 	</resources>
 
 </manifest>
